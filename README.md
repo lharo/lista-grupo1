@@ -4,3 +4,4 @@
 * Josue Jyaru Hernandez Carmona
 * Carlos Natanael Lecona Valdespino
 * Iván Vega Matías
+* Daniel Leonardo Saldaña Amado
