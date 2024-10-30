@@ -2,3 +2,6 @@
 
 * Luis Esteban Haro Ayala
 * Omar I. Mendoza Baez
+* Josue Jyaru Hernandez Carmona
+* Carlos Natanael Lecona Valdespino
+* Iván Vega Matías
