@@ -9,3 +9,6 @@
 * Jesus Alejandro Valencia Guzman
 * Daniel Leonardo Saldaña Amado
 * Fernando Alvarez Vazquez
+* Angel Aymerich Quezada
+
+
